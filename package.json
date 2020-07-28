@@ -10,5 +10,8 @@
     "parcel-plugin-svelte": "^4.0.6",
     "svelte": "^3.24.0",
     "tailwindcss": "^1.5.2"
+  },
+  "dependencies": {
+    "serve": "^11.3.2"
   }
 }
